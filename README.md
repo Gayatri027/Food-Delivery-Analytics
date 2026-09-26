@@ -37,10 +37,12 @@ The goal is to understand order patterns, revenue, customer behavior, restaurant
 
 ## Project Structure
 Food-Delivery-Analytics/
-├── SQL/
-│   └── food_delivery_analysis.sql
-├── food_delivery_analysis.py
-├── food_delivery_raw_data.xlsx
-├── Food_Delivery_Analytics_Dashboard.pbix
-├── Food_Delivery_Analytics_Dashboard.png
-└── README.md
+## Project Structure
+
+- SQL
+  - food_delivery_analysis.sql
+- food_delivery_analysis.py
+- food_delivery_raw_data.xlsx
+- Food_Delivery_Analytics_Dashboard.pbix
+- Food_Delivery_Analytics_Dashboard.png
+- README.md
